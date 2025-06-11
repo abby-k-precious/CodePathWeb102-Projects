@@ -35,7 +35,7 @@ Here's a walkthrough of implemented required features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-https://lh3.googleusercontent.com/gps-cs-s/AC9h4no0wCUQZnOmCfOe5pMxKIa2J1SuHhijm58_d5hy6uKdfwayTkW6o7f2D06cEY1qCQf69NwID8IiyL4HINwUZteHHH-CYMdRKm1KhprR69c2ycc3np2JsRe_eq6w4-_SnM7J_jPk=s1360-w1360-h1020![Uploading image.png…]()
+
 GIF created with ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
