@@ -37,7 +37,7 @@ Here's a walkthrough of implemented required features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
-GIF created with ...  
+GIF created with ...   I tried the kap but the file was way too large to be added here (1GB). I went ahead and recorded it on my phone it was 16MB and I converted it to GIF (8MB apparently it's supposed to be 10MB and below) thats why the quality but seem poor.
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
