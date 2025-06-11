@@ -30,6 +30,7 @@ The following **additional** features are implemented:
 * [ ] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough 
+![IMG_0977-2](https://github.com/user-attachments/assets/8c5d5717-e1fa-4982-b79b-32df983298f4)
 
 Here's a walkthrough of implemented required features:
 
