@@ -1,10 +1,10 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - Cultural Restaurants in Georgia
 
-Submitted by: **Your Name Here**
+Submitted by: Abby K
 
-This web app: **insert description**
+This web app: Allows a person to find out the cultural restaurants that can be found in specifically Georgia.
 
-Time spent: **X** hours spent in total
+Time spent: 2/half hours spent in total
 
 ## Required Features
 
